@@ -1,0 +1,6 @@
+Username: admin
+Def=Py(SQ1P3T4L):
+nombre de la base de datos:ebdb
+Dominio:  co.petal.com.co 
+Instancia: AWS 
+Contraseña: Def=P3tal(@): 
